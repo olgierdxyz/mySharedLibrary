@@ -69,3 +69,7 @@ target/
 .DS_Store
 Thumbs.db
 
+# Gradle
+!gradle/wrapper/gradle-wrapper.properties
+#gradlew
+#gradlew.bat
